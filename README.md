@@ -18,7 +18,7 @@
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellops&theme=dark&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellops&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellops&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   
