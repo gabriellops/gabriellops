@@ -1,7 +1,7 @@
 <h1 align="left">Oi! Sou o Gabriel. 👋</h1>
 <h3 align="left">Um estudante e desenvolvedor fascinado por tecnologia!</h3>
 
-- 🧠 Atualmente estou aprendendo **JavaScript com lógica de programação e C# com foco em .NET**
+- 🧠 Atualmente estou aprendendo **C# com foco em .NET**
 
 - 📫 Fale comigo em **gabriellops.dsilva@gmail.com**
 
