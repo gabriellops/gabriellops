@@ -5,8 +5,6 @@
 
 - ✉️ Fale comigo em **gabriellops.dsilva@gmail.com**
 
-- 📄 Sabia sobre as minhas experiências [Currículo em PDF](https://drive.google.com/file/d/15D9VsoHXYfEhpchk5gGSdXX9cjy-oFhj/view?usp=sharing)
-
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriellopes-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriellopes-silva" height="30" width="40" /></a>
