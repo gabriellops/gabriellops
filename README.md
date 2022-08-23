@@ -3,7 +3,7 @@
 
 - 🧠 Atualmente estou aprendendo **C# com foco em .NET**
 
-- ✉️ Fale comigo em **gabriellops.dsilva@gmail.com**
+- ✉️ Fale comigo em **ogabriellops@gmail.com**
 
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
