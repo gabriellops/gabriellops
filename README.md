@@ -1,9 +1,11 @@
 <h1 align="left">Oi! Sou o Gabriel. 👋</h1>
-<h3 align="left">Um estudante e desenvolvedor fascinado por tecnologia!</h3>
+<h3 align="left">Um estudante e desenvolvedor .NET fascinado por tecnologia!</h3>
 
-- 🧠 Atualmente estou aprendendo **C# e .NET**
+- 🧠 Atualmente estou estundando **C# e .NET**
 
 - ✉️ Fale comigo em **ogabriellops@gmail.com**
+
+- 👨‍💻 Veja meus outros projetos no [GitLab](https://gitlab.com/gabriellops)
 
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
